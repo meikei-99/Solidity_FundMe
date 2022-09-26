@@ -8,6 +8,8 @@
 - allows user to fully withdraw their fund, leaving the smart contract with balance of zero
 - ensures that only those who fund the smart contract can withdraw ETH
 
+<img src="./example.png" alt="Alt text" title="Optional title">
+
 ### What I learnt:
 
 - how to use ether.js and hardhat
