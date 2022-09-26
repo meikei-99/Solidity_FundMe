@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.5rem;
+    width: 100vw;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid black;
+    margin: 20px auto;
+    padding: 20px 20px;
+    width: 750px;
+}
+
+button {
+    font-size: 1.5rem;
+    background-color: white;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+
+button:focus {
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+}
+
+input {
+    border: none;
+    border-bottom: 1.5px solid grey;
+    text-align: center;
+    font-size: 1.5rem;
+    height: 40px;
+    width: 100px;
+    padding: 3px 3px;
+    margin: 10px 10px;
+}
