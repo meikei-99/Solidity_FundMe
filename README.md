@@ -20,6 +20,11 @@
 - include Goerli RPC Endpoints using Alchemy
 - writing unit and staging test
 
+### To be improved:
+
+- Allow to switch between networks
+- Allow to switch between users
+
 ### Quickstart
 
 1. Clone the repo
@@ -33,7 +38,6 @@ git clone https://github.com/meikei-99/hardhat-fund-me.git
 
 ```
 npx hardhat node / yarn hardhat node
-
 ```
 
 3. Update constants.js with new contract address
