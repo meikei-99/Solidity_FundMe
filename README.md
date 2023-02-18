@@ -1,4 +1,4 @@
-# Hardhat Fund Me
+# Solidity Fund Me
 
 ## Leaning smart contract whereby account users can fund and withdraw ETH 📊
 
